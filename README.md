@@ -1,6 +1,6 @@
 Hi, I’m Eliora!
 
-I'm studying Computer Science at Brandeis University (class of 2025)
+I'm studying Computer Science at Brandeis University (class of 2025).
 I’m interested in software engineering, data analytics, and video game development
 
 Programming: Java, Python, JavaScript, SQL, Flask, MongoDB, NodeJS, Express, React, NextJS, Git, Bash, Arduino, HTML, CSS
