@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Eliora!
+- Hi, I’m Eliora!
 - I'm studying Computer Science at Brandeis University (class of 2025)
-- I’m interested in software engineering and video game development
-- Programming: Java, Python, JavaScript, MongoDB, NodeJS, EJS, Express, HTML, CSS, Flask,
-  React, SQL, Github, Bash, Arduino
-- Softwares: VS Code, Eclipse, Blender, A-Frame
+- I’m interested in software engineering, data analytics, and video game development
+- Programming: Java, Python, JavaScript, SQL, Flask, MongoDB, NodeJS, Express, React, NextJS, Git, Bash, Arduino, HTML, CSS
+- Software: VS Code, Eclipse, Tableau, Blender, A-Frame
 - I’m looking to challenge myself and increase my coding ability.
 - You can reach me at krumaneliora@gmail.com
 
